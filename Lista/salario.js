@@ -14,7 +14,7 @@ function salario(){
 
     salarioLiquido = salarioBruto - desconto
 
-    window.alert("funcionario: " + nome)
-    window.alert("Com o desconto, terá o salario liquido de:" + salarioLiquido)
+    window.alert("Funcionario:  " + nome)
+    window.alert("Com o desconto, terá o salario liquido de R$ " + salarioLiquido)
 
 }
